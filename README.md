@@ -1,1 +1,0 @@
-Deploy on Vercel after uploading to GitHub.
